@@ -1,0 +1,5 @@
+Cluster,EmployeeCount,TenureYears,TotalMRR,TotalSeats,TotalLogins,AvgActiveUsers,TotalAPICalls,TotalSessionMinutes,TicketCount,AvgResolutionHours
+0,3000.0,3.0,592.09,7.45,97.65,3.93,13314.35,3019.37,3.55,38.56
+1,233.17,3.24,499.78,6.95,218.34,6.75,23393.87,4574.6,3.4,34.73
+2,220.3,2.34,327.65,7.23,53.27,4.7,6728.96,1346.61,3.15,35.6
+3,244.92,2.46,2239.86,7.33,72.08,5.33,7864.9,1640.43,3.38,37.12

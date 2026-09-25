@@ -1,0 +1,421 @@
+CustomerID,CompanyName,Industry,Country,City,EmployeeCount,SignupDate,AcquisitionChannel
+C1001,Ishaan Joshi Systems,Unknown,India,Hyderabad,80.0,2023-07-02,Paid Ads
+C1002,Tara Sharma Technologies,Finance,Uk,London,12.0,2024-02-21,Referral
+C1003,Zoya Das Systems,Finance,Uae,Dubai,1200.0,2023-09-12,Organic Search
+C1004,Diya Joshi Labs,Retail,Uk,Manchester,400.0,2024-03-01,Partner
+C1005,Tara Joshi Systems,Logistics,Uk,London,1200.0,2023-12-29,Outbound
+C1006,Sanjay Reddy Labs,Manufacturing,India,Hyderabad,35.0,2024-09-15,Organic Search
+C1007,Sai Das Technologies,Logistics,India,Delhi,12.0,2023-03-26,Referral
+C1008,Nikita Gupta Solutions,Logistics,Uae,Abu Dhabi,400.0,2024-02-21,Paid Ads
+C1009,Rohan Patel Technologies,Education,Uae,Abu Dhabi,3000.0,2023-07-27,Outbound
+C1010,Tara Iyer Labs,Manufacturing,India,Pune,12.0,2023-11-15,Partner
+C1011,Rohan Iyer Solutions,Retail,Uae,Dubai,400.0,2023-05-11,Organic Search
+C1012,Meera Patel Labs,Healthcare,Uae,Dubai,35.0,2023-02-15,Events
+C1013,Farhan Das Industries,Retail,Uk,London,12.0,2024-12-10,Organic Search
+C1014,Rahul Patel Industries,Media,India,Chennai,1200.0,2024-07-10,Partner
+C1015,Sanjay Gupta Industries,Finance,India,Mumbai,35.0,2024-01-15,Partner
+C1016,Diya Singh Industries,Media,Uk,Manchester,35.0,2024-01-16,Paid Ads
+C1017,Rahul Reddy Solutions,Unknown,Usa,Seattle,12.0,2024-06-05,Paid Ads
+C1018,Myra Khan Systems,Finance,Usa,Boston,150.0,2024-03-06,Referral
+C1019,Deepak Nair Labs,Finance,Singapore,Singapore,150.0,2024-04-30,Outbound
+C1020,Saanvi Menon Group,Retail,India,Chennai,400.0,2023-12-04,Referral
+C1021,Vivaan Singh Systems,Finance,Usa,Seattle,35.0,2023-05-14,Organic Search
+C1022,Rahul Singh Technologies,Retail,Usa,Boston,400.0,2023-09-26,Organic Search
+C1023,Meera Menon Industries,Media,Usa,Boston,35.0,2024-08-02,Referral
+C1024,Vivaan Verma Solutions,Retail,India,Bengaluru,12.0,2024-10-17,Paid Ads
+C1025,Diya Singh Labs,Manufacturing,Usa,Seattle,1200.0,2023-04-22,Outbound
+C1026,Vivaan Singh Solutions,Manufacturing,India,Mumbai,12.0,2024-05-04,Organic Search
+C1027,Vihaan Bose Group,Manufacturing,India,Bengaluru,3000.0,2023-05-06,Paid Ads
+C1028,Ananya Gupta Solutions,Manufacturing,India,Chennai,3000.0,2023-06-06,Partner
+C1029,Sai Khan Technologies,Manufacturing,India,Pune,3000.0,2024-01-20,Referral
+C1030,Rohan Bose Solutions,Finance,India,Delhi,1200.0,2023-04-24,Referral
+C1031,Isha Khan Technologies,Logistics,India,Bengaluru,400.0,2025-01-26,Organic Search
+C1032,Naveen Menon Industries,Retail,India,Pune,1200.0,2025-01-09,Events
+C1033,Arun Sharma Industries,Logistics,India,Delhi,35.0,2023-11-30,Paid Ads
+C1034,Sneha Rao Industries,Healthcare,India,Bengaluru,12.0,2025-01-26,Events
+C1035,Arjun Gupta Industries,Unknown,Singapore,Singapore,80.0,2023-06-21,Outbound
+C1036,Krishna Sharma Solutions,Retail,India,Mumbai,1200.0,2023-08-24,Organic Search
+C1037,Diya Das Industries,Education,Uae,Abu Dhabi,150.0,2024-02-26,Partner
+C1038,Sneha Menon Industries,Logistics,India,Hyderabad,35.0,2023-05-06,Outbound
+C1039,Arjun Iyer Systems,Logistics,India,Chennai,12.0,2023-03-23,Referral
+C1040,Reyansh Nair Labs,Retail,Uk,London,12.0,2024-02-13,Paid Ads
+C1041,Sanjay Khan Systems,Manufacturing,India,Pune,12.0,2023-12-30,Outbound
+C1042,Meera Iyer Industries,Finance,Uk,London,35.0,2023-05-12,Paid Ads
+C1043,Aadhya Khan Systems,Manufacturing,Usa,Seattle,35.0,2023-07-25,Paid Ads
+C1044,Krishna Bose Solutions,Retail,Usa,Austin,400.0,2024-07-08,Paid Ads
+C1045,Kavya Verma Solutions,Retail,Usa,Austin,12.0,2024-06-10,Paid Ads
+C1046,Tara Patel Industries,Retail,India,Chennai,12.0,2023-09-04,Organic Search
+C1047,Rohan Das Technologies,Media,India,Hyderabad,150.0,2024-06-01,Paid Ads
+C1048,Aman Singh Labs,Finance,India,Mumbai,80.0,2023-07-25,Paid Ads
+C1049,Farhan Gupta Labs,Education,Usa,Boston,12.0,2024-10-06,Organic Search
+C1050,Arun Khan Solutions,Retail,Uae,Abu Dhabi,150.0,2023-07-09,Organic Search
+C1051,Priya Gupta Labs,Manufacturing,Singapore,Singapore,400.0,2024-08-01,Partner
+C1052,Aadhya Reddy Labs,Finance,Usa,Austin,150.0,2024-05-10,Organic Search
+C1053,Sanjay Joshi Group,Finance,Uk,London,1200.0,2023-05-25,Partner
+C1054,Arjun Bose Group,Manufacturing,India,Chennai,80.0,2024-11-14,Paid Ads
+C1055,Arun Rao Technologies,Education,Uk,Manchester,12.0,2023-03-25,Referral
+C1056,Kavya Rao Systems,Healthcare,India,Pune,80.0,2024-07-30,Events
+C1057,Reyansh Joshi Industries,Media,India,Delhi,1200.0,2023-11-12,Referral
+C1058,Riya Das Labs,Healthcare,India,Chennai,12.0,2024-08-27,Referral
+C1059,Myra Verma Labs,Media,Singapore,Singapore,80.0,2024-07-16,Organic Search
+C1060,Aarav Reddy Systems,Media,Uk,London,150.0,2023-07-09,Organic Search
+C1061,Isha Gupta Group,Finance,Usa,Boston,150.0,2023-06-02,Paid Ads
+C1062,Kavya Das Solutions,Manufacturing,India,Mumbai,3000.0,2023-06-02,Paid Ads
+C1063,Rahul Menon Systems,Logistics,Usa,Austin,12.0,2023-06-09,Events
+C1064,Riya Sharma Technologies,Logistics,India,Chennai,35.0,2024-03-21,Paid Ads
+C1065,Priya Verma Systems,Education,India,Chennai,3000.0,2023-10-25,Organic Search
+C1066,Ishaan Reddy Solutions,Education,Uk,Manchester,80.0,2024-07-18,Organic Search
+C1067,Tara Khan Group,Logistics,India,Delhi,80.0,2024-02-10,Partner
+C1068,Ananya Gupta Industries,Healthcare,Usa,Seattle,150.0,2024-11-04,Organic Search
+C1069,Aadhya Joshi Systems,Logistics,India,Hyderabad,35.0,2023-08-15,Partner
+C1070,Kiara Das Solutions,Manufacturing,Uk,Manchester,35.0,2025-01-25,Organic Search
+C1071,Arjun Patel Labs,Education,Usa,Austin,35.0,2024-09-11,Organic Search
+C1072,Rohan Gupta Technologies,Media,India,Pune,400.0,2023-04-22,Paid Ads
+C1073,Vivaan Menon Group,Logistics,Uk,London,80.0,2023-08-20,Partner
+C1074,Priya Khan Group,Finance,Uk,London,1200.0,2024-10-11,Referral
+C1075,Ishaan Khan Industries,Healthcare,India,Pune,35.0,2024-05-01,Organic Search
+C1076,Arun Khan Labs,Education,India,Chennai,400.0,2024-05-26,Organic Search
+C1077,Krishna Nair Industries,Retail,Usa,Austin,1200.0,2024-03-10,Paid Ads
+C1078,Rohan Patel Group,Media,India,Chennai,12.0,2024-03-09,Organic Search
+C1079,Arun Rao Industries,Education,Usa,Austin,150.0,2024-07-30,Organic Search
+C1080,Rohan Sharma Group,Media,India,Bengaluru,35.0,2024-05-05,Partner
+C1081,Ananya Nair Group,Logistics,Usa,Austin,12.0,2024-04-01,Outbound
+C1082,Aadhya Nair Systems,Finance,India,Delhi,35.0,2024-06-06,Paid Ads
+C1083,Deepak Das Group,Retail,India,Mumbai,1200.0,2024-03-01,Organic Search
+C1084,Meera Patel Industries,Finance,Singapore,Singapore,35.0,2025-01-17,Organic Search
+C1085,Aditya Reddy Group,Logistics,Singapore,Singapore,12.0,2023-06-17,Partner
+C1086,Karthik Sharma Systems,Media,Usa,Boston,400.0,2023-04-29,Organic Search
+C1087,Diya Iyer Labs,Retail,India,Mumbai,12.0,2024-11-03,Outbound
+C1088,Reyansh Das Technologies,Healthcare,Uae,Dubai,12.0,2023-06-30,Events
+C1089,Reyansh Bose Solutions,Manufacturing,Uk,London,150.0,2024-05-27,Organic Search
+C1090,Aarav Menon Group,Manufacturing,Singapore,Singapore,150.0,2024-10-05,Partner
+C1091,Myra Nair Solutions,Finance,India,Bengaluru,35.0,2024-11-17,Events
+C1092,Aman Sharma Solutions,Retail,India,Delhi,150.0,2024-12-05,Organic Search
+C1093,Aarav Joshi Technologies,Retail,India,Mumbai,400.0,2023-05-28,Organic Search
+C1094,Isha Nair Solutions,Retail,Usa,Seattle,80.0,2023-03-05,Referral
+C1095,Aarav Das Industries,Logistics,Singapore,Singapore,400.0,2023-02-13,Partner
+C1096,Deepak Gupta Labs,Finance,Usa,Boston,150.0,2024-03-07,Organic Search
+C1097,Diya Gupta Industries,Logistics,Usa,Boston,1200.0,2024-12-24,Paid Ads
+C1098,Myra Nair Systems,Logistics,Uk,London,12.0,2024-04-24,Organic Search
+C1099,Ishaan Patel Group,Logistics,India,Mumbai,1200.0,2023-02-17,Paid Ads
+C1100,Priya Gupta Solutions,Healthcare,Uae,Abu Dhabi,80.0,2024-07-27,Partner
+C1101,Zoya Bose Industries,Finance,Uk,London,400.0,2023-02-24,Outbound
+C1102,Deepak Iyer Solutions,Retail,India,Delhi,150.0,2023-03-18,Paid Ads
+C1103,Pooja Menon Group,Retail,India,Mumbai,1200.0,2023-07-30,Unknown
+C1104,Farhan Iyer Group,Finance,Singapore,Singapore,12.0,2024-10-10,Events
+C1105,Riya Gupta Labs,Media,India,Bengaluru,12.0,2023-01-30,Organic Search
+C1106,Ananya Singh Group,Logistics,Singapore,Singapore,80.0,2024-09-29,Referral
+C1107,Isha Nair Technologies,Retail,India,Pune,3000.0,2023-12-07,Partner
+C1108,Saanvi Joshi Systems,Unknown,Singapore,Singapore,150.0,2023-01-14,Paid Ads
+C1109,Kiara Verma Industries,Retail,Uae,Dubai,80.0,2023-02-19,Organic Search
+C1110,Tara Sharma Solutions,Media,Uk,Manchester,35.0,2024-07-30,Outbound
+C1111,Priya Khan Industries,Unknown,Uae,Abu Dhabi,35.0,2024-06-30,Organic Search
+C1112,Aarav Singh Labs,Education,Uk,London,1200.0,2023-07-25,Partner
+C1113,Riya Iyer Technologies,Healthcare,India,Chennai,12.0,2024-09-12,Outbound
+C1114,Aadhya Das Industries,Manufacturing,Usa,Boston,35.0,2024-11-26,Outbound
+C1115,Rahul Rao Labs,Finance,Uae,Dubai,12.0,2024-09-16,Partner
+C1116,Isha Gupta Group,Finance,India,Mumbai,35.0,2024-12-01,Partner
+C1117,Arun Gupta Labs,Education,Uae,Abu Dhabi,400.0,2024-01-27,Events
+C1118,Ishaan Reddy Group,Education,Uae,Abu Dhabi,400.0,2024-07-17,Events
+C1119,Deepak Verma Systems,Logistics,India,Bengaluru,80.0,2023-07-29,Referral
+C1120,Pooja Rao Solutions,Manufacturing,Uae,Abu Dhabi,80.0,2024-06-20,Outbound
+C1121,Ishaan Singh Group,Logistics,India,Mumbai,1200.0,2023-04-13,Events
+C1122,Aarav Gupta Technologies,Logistics,India,Bengaluru,12.0,2024-04-06,Referral
+C1123,Vihaan Joshi Solutions,Manufacturing,India,Mumbai,400.0,2024-05-09,Outbound
+C1124,Krishna Sharma Systems,Manufacturing,Uk,Manchester,150.0,2024-08-09,Partner
+C1125,Kiara Verma Systems,Media,Uk,London,12.0,2023-06-17,Referral
+C1126,Sneha Iyer Group,Retail,India,Chennai,35.0,2023-10-11,Outbound
+C1127,Divya Gupta Labs,Education,Uae,Abu Dhabi,35.0,2024-03-16,Partner
+C1128,Sneha Rao Industries,Finance,India,Mumbai,400.0,2023-09-29,Organic Search
+C1129,Farhan Reddy Labs,Manufacturing,India,Mumbai,3000.0,2024-05-26,Referral
+C1130,Nikita Iyer Technologies,Media,Uae,Dubai,150.0,2024-03-26,Unknown
+C1131,Aditya Menon Industries,Manufacturing,Uae,Abu Dhabi,80.0,2023-05-05,Organic Search
+C1132,Sneha Khan Solutions,Finance,Singapore,Singapore,35.0,2023-12-07,Organic Search
+C1133,Divya Nair Solutions,Retail,India,Pune,12.0,2025-01-25,Events
+C1134,Tara Reddy Industries,Healthcare,India,Delhi,35.0,2023-01-30,Referral
+C1135,Nikita Menon Solutions,Education,India,Hyderabad,35.0,2023-11-21,Organic Search
+C1136,Deepak Bose Group,Media,Uae,Dubai,35.0,2024-04-04,Paid Ads
+C1137,Arun Verma Labs,Finance,India,Pune,80.0,2023-08-09,Partner
+C1138,Meera Sharma Labs,Retail,India,Bengaluru,35.0,2024-10-27,Outbound
+C1139,Arjun Menon Group,Logistics,India,Delhi,12.0,2023-07-17,Referral
+C1140,Aarav Nair Systems,Retail,India,Chennai,12.0,2024-07-15,Paid Ads
+C1141,Ananya Joshi Industries,Finance,Usa,Austin,400.0,2023-02-25,Organic Search
+C1142,Kavya Reddy Technologies,Education,Usa,Austin,400.0,2023-03-03,Partner
+C1143,Reyansh Menon Solutions,Retail,Singapore,Singapore,35.0,2023-02-20,Unknown
+C1144,Aditya Sharma Technologies,Media,Uk,London,80.0,2024-01-15,Referral
+C1145,Pooja Reddy Solutions,Logistics,India,Hyderabad,35.0,2023-03-28,Outbound
+C1146,Priya Iyer Technologies,Healthcare,India,Pune,150.0,2023-01-16,Referral
+C1147,Vivaan Khan Technologies,Manufacturing,India,Bengaluru,80.0,2023-11-07,Organic Search
+C1148,Divya Bose Solutions,Education,India,Chennai,80.0,2024-09-04,Unknown
+C1149,Vivaan Verma Technologies,Logistics,Uk,London,35.0,2023-04-23,Paid Ads
+C1150,Rahul Singh Technologies,Education,India,Hyderabad,35.0,2025-01-14,Outbound
+C1151,Aman Gupta Solutions,Manufacturing,India,Chennai,12.0,2023-07-20,Paid Ads
+C1152,Nikita Verma Technologies,Finance,Usa,Austin,80.0,2024-08-03,Organic Search
+C1153,Aadhya Patel Solutions,Media,India,Pune,80.0,2024-08-10,Paid Ads
+C1154,Kiara Das Group,Unknown,India,Pune,80.0,2024-10-29,Organic Search
+C1155,Naveen Verma Technologies,Manufacturing,India,Bengaluru,12.0,2023-09-30,Referral
+C1156,Diya Sharma Technologies,Retail,India,Chennai,80.0,2024-03-16,Organic Search
+C1157,Meera Joshi Solutions,Logistics,Singapore,Singapore,150.0,2024-02-24,Paid Ads
+C1158,Farhan Nair Labs,Education,India,Mumbai,3000.0,2023-03-21,Organic Search
+C1159,Deepak Bose Systems,Education,Uk,London,400.0,2024-09-02,Organic Search
+C1160,Ishaan Singh Group,Education,Usa,Boston,1200.0,2024-12-11,Organic Search
+C1161,Sneha Das Systems,Healthcare,Uae,Dubai,150.0,2024-05-18,Paid Ads
+C1162,Divya Nair Technologies,Logistics,India,Hyderabad,150.0,2024-09-08,Outbound
+C1163,Meera Menon Industries,Media,India,Bengaluru,35.0,2023-09-03,Paid Ads
+C1164,Saanvi Menon Systems,Healthcare,India,Pune,150.0,2023-10-06,Events
+C1165,Arjun Das Solutions,Logistics,India,Bengaluru,80.0,2024-03-12,Partner
+C1166,Deepak Joshi Industries,Education,India,Bengaluru,80.0,2024-08-30,Paid Ads
+C1167,Aarav Patel Labs,Media,Singapore,Singapore,3000.0,2023-04-19,Paid Ads
+C1168,Aditya Joshi Solutions,Finance,Usa,Seattle,80.0,2023-10-30,Referral
+C1169,Reyansh Menon Solutions,Manufacturing,Uk,Manchester,400.0,2024-09-01,Organic Search
+C1170,Diya Verma Industries,Finance,India,Mumbai,80.0,2023-12-28,Referral
+C1171,Aditya Khan Industries,Retail,Usa,Austin,35.0,2023-11-04,Referral
+C1172,Reyansh Menon Industries,Healthcare,Singapore,Singapore,400.0,2024-11-08,Referral
+C1173,Kiara Bose Labs,Finance,India,Delhi,12.0,2024-09-03,Events
+C1174,Vivaan Verma Systems,Retail,India,Bengaluru,80.0,2024-08-29,Partner
+C1175,Pooja Bose Solutions,Logistics,India,Delhi,12.0,2023-05-31,Organic Search
+C1176,Sneha Khan Technologies,Education,Uae,Abu Dhabi,12.0,2024-08-26,Organic Search
+C1177,Isha Gupta Group,Media,Usa,Seattle,12.0,2023-11-13,Organic Search
+C1178,Isha Menon Solutions,Retail,India,Mumbai,12.0,2023-06-30,Partner
+C1179,Sneha Iyer Solutions,Media,Usa,Boston,12.0,2023-08-13,Paid Ads
+C1180,Rahul Menon Labs,Retail,Uae,Dubai,80.0,2023-08-14,Organic Search
+C1181,Isha Reddy Labs,Healthcare,Uk,London,150.0,2024-09-28,Partner
+C1182,Arun Menon Labs,Finance,India,Bengaluru,1200.0,2023-09-21,Organic Search
+C1183,Sanjay Gupta Labs,Manufacturing,Usa,Austin,400.0,2024-04-03,Paid Ads
+C1184,Meera Verma Group,Manufacturing,Usa,Boston,80.0,2023-04-15,Organic Search
+C1185,Zoya Rao Labs,Finance,India,Mumbai,35.0,2024-08-23,Partner
+C1186,Diya Rao Technologies,Media,Uk,Manchester,80.0,2023-10-05,Paid Ads
+C1187,Pooja Gupta Group,Manufacturing,India,Mumbai,150.0,2024-03-20,Organic Search
+C1188,Tara Rao Industries,Healthcare,India,Hyderabad,12.0,2023-07-21,Referral
+C1189,Kiara Patel Group,Media,India,Bengaluru,150.0,2024-08-26,Referral
+C1190,Myra Joshi Solutions,Retail,Uk,Manchester,12.0,2023-02-14,Paid Ads
+C1191,Sai Patel Industries,Healthcare,Uae,Abu Dhabi,12.0,2023-12-31,Referral
+C1192,Deepak Nair Technologies,Media,Uk,Manchester,150.0,2023-07-05,Organic Search
+C1193,Diya Menon Systems,Unknown,Usa,Seattle,1200.0,2024-08-02,Paid Ads
+C1194,Zoya Bose Group,Retail,Uae,Dubai,80.0,2024-03-19,Organic Search
+C1195,Aman Gupta Labs,Finance,Uae,Abu Dhabi,80.0,2023-05-03,Referral
+C1196,Ananya Singh Industries,Finance,India,Hyderabad,80.0,2023-03-16,Referral
+C1197,Sanjay Menon Industries,Education,Singapore,Singapore,35.0,2024-04-28,Referral
+C1198,Ananya Sharma Labs,Finance,India,Hyderabad,12.0,2023-04-26,Paid Ads
+C1199,Aman Singh Labs,Education,India,Pune,80.0,2024-08-05,Paid Ads
+C1200,Kavya Rao Industries,Media,India,Delhi,80.0,2024-11-10,Partner
+C1201,Naveen Patel Labs,Manufacturing,India,Delhi,400.0,2024-12-07,Organic Search
+C1202,Karthik Iyer Labs,Finance,India,Pune,35.0,2024-12-06,Organic Search
+C1203,Saanvi Reddy Industries,Education,Usa,Seattle,1200.0,2024-10-24,Organic Search
+C1204,Aman Reddy Systems,Manufacturing,India,Bengaluru,12.0,2023-02-19,Paid Ads
+C1205,Isha Joshi Labs,Healthcare,Usa,Seattle,1200.0,2023-11-16,Paid Ads
+C1206,Zoya Gupta Group,Logistics,India,Bengaluru,400.0,2023-04-29,Paid Ads
+C1207,Sneha Gupta Technologies,Manufacturing,Singapore,Singapore,80.0,2023-04-17,Organic Search
+C1208,Deepak Das Group,Healthcare,India,Mumbai,150.0,2023-10-02,Organic Search
+C1209,Rahul Khan Systems,Media,Usa,Seattle,12.0,2023-08-28,Organic Search
+C1210,Deepak Patel Technologies,Healthcare,India,Delhi,1200.0,2023-12-29,Events
+C1211,Krishna Iyer Solutions,Retail,India,Mumbai,1200.0,2024-10-13,Events
+C1212,Sai Verma Solutions,Retail,India,Mumbai,80.0,2023-06-27,Events
+C1213,Nikita Verma Labs,Retail,India,Delhi,12.0,2024-11-28,Events
+C1214,Sneha Sharma Technologies,Logistics,India,Pune,80.0,2024-11-17,Outbound
+C1215,Zoya Patel Solutions,Healthcare,Uk,Manchester,12.0,2024-08-28,Organic Search
+C1216,Nikita Khan Systems,Manufacturing,India,Chennai,150.0,2023-08-25,Paid Ads
+C1217,Sai Iyer Industries,Logistics,India,Pune,35.0,2023-03-06,Paid Ads
+C1218,Reyansh Joshi Group,Education,Singapore,Singapore,12.0,2025-01-19,Paid Ads
+C1219,Tara Nair Group,Healthcare,India,Pune,12.0,2023-03-06,Organic Search
+C1220,Diya Rao Solutions,Logistics,Uae,Abu Dhabi,12.0,2023-02-28,Outbound
+C1221,Rahul Gupta Solutions,Education,India,Mumbai,150.0,2023-05-20,Unknown
+C1222,Aarav Verma Labs,Finance,Uk,Manchester,80.0,2024-09-13,Outbound
+C1223,Vihaan Joshi Industries,Education,Usa,Austin,12.0,2024-08-07,Paid Ads
+C1224,Isha Patel Technologies,Manufacturing,India,Hyderabad,12.0,2024-02-15,Paid Ads
+C1225,Diya Patel Industries,Logistics,India,Hyderabad,150.0,2023-08-14,Referral
+C1226,Ishaan Patel Industries,Education,India,Pune,12.0,2023-05-04,Events
+C1227,Karthik Das Industries,Healthcare,India,Chennai,35.0,2024-04-25,Paid Ads
+C1228,Kiara Sharma Solutions,Logistics,India,Chennai,80.0,2023-12-08,Partner
+C1229,Farhan Verma Technologies,Media,Uk,Manchester,150.0,2024-02-23,Organic Search
+C1230,Ishaan Patel Industries,Retail,India,Hyderabad,12.0,2023-07-24,Partner
+C1231,Aditya Patel Group,Logistics,Usa,Austin,150.0,2023-12-09,Referral
+C1232,Rohan Bose Systems,Finance,Uk,Manchester,3000.0,2024-10-14,Paid Ads
+C1233,Deepak Patel Labs,Manufacturing,Uae,Dubai,400.0,2024-08-17,Outbound
+C1234,Farhan Singh Industries,Manufacturing,Uk,London,12.0,2023-05-15,Paid Ads
+C1235,Vivaan Bose Technologies,Healthcare,India,Mumbai,80.0,2024-06-05,Partner
+C1236,Saanvi Rao Industries,Education,Uae,Dubai,400.0,2023-03-15,Referral
+C1237,Arun Rao Systems,Logistics,India,Pune,150.0,2024-07-20,Outbound
+C1238,Tara Gupta Technologies,Media,Uk,Manchester,35.0,2023-05-23,Organic Search
+C1239,Pooja Nair Solutions,Manufacturing,Uk,Manchester,150.0,2023-05-30,Events
+C1240,Aadhya Gupta Group,Finance,Singapore,Singapore,80.0,2025-01-12,Organic Search
+C1241,Rohan Iyer Group,Healthcare,India,Chennai,1200.0,2023-07-05,Paid Ads
+C1242,Deepak Bose Group,Finance,India,Hyderabad,35.0,2024-11-12,Outbound
+C1243,Aditya Patel Solutions,Media,Uae,Dubai,150.0,2023-12-03,Paid Ads
+C1244,Myra Sharma Industries,Media,India,Delhi,150.0,2024-11-20,Referral
+C1245,Aadhya Sharma Labs,Logistics,India,Pune,150.0,2024-12-08,Organic Search
+C1246,Aditya Sharma Group,Finance,Uae,Abu Dhabi,80.0,2024-02-13,Organic Search
+C1247,Karthik Sharma Technologies,Manufacturing,Uk,Manchester,1200.0,2024-08-23,Partner
+C1248,Farhan Bose Solutions,Media,Uae,Abu Dhabi,400.0,2024-04-18,Paid Ads
+C1249,Ananya Singh Solutions,Manufacturing,Usa,Boston,150.0,2023-04-12,Organic Search
+C1250,Sai Rao Industries,Finance,India,Hyderabad,1200.0,2024-01-20,Partner
+C1251,Diya Khan Group,Logistics,Singapore,Singapore,80.0,2023-03-19,Paid Ads
+C1252,Meera Sharma Industries,Media,Uk,Manchester,12.0,2023-07-22,Organic Search
+C1253,Karthik Rao Solutions,Media,India,Hyderabad,35.0,2024-06-01,Organic Search
+C1254,Rohan Nair Technologies,Education,Usa,Boston,35.0,2023-04-19,Organic Search
+C1255,Riya Joshi Labs,Healthcare,India,Mumbai,12.0,2024-10-25,Referral
+C1256,Sai Gupta Technologies,Media,Uk,London,35.0,2024-03-30,Events
+C1257,Vihaan Patel Solutions,Manufacturing,India,Chennai,35.0,2023-11-18,Partner
+C1258,Myra Verma Technologies,Media,Uk,Manchester,150.0,2024-02-27,Organic Search
+C1259,Priya Reddy Systems,Manufacturing,India,Delhi,80.0,2024-10-31,Paid Ads
+C1260,Meera Iyer Technologies,Finance,India,Bengaluru,80.0,2023-06-11,Referral
+C1261,Reyansh Menon Labs,Retail,India,Delhi,150.0,2024-03-07,Outbound
+C1262,Arun Joshi Group,Retail,Uk,London,150.0,2024-04-09,Paid Ads
+C1263,Deepak Reddy Industries,Media,India,Bengaluru,80.0,2025-01-05,Paid Ads
+C1264,Aarav Nair Solutions,Education,India,Mumbai,35.0,2024-07-05,Referral
+C1265,Aditya Reddy Solutions,Retail,Uk,London,3000.0,2023-10-23,Events
+C1266,Arun Nair Systems,Education,Uae,Abu Dhabi,80.0,2023-07-04,Paid Ads
+C1267,Nikita Rao Industries,Retail,India,Hyderabad,150.0,2023-11-09,Organic Search
+C1268,Deepak Patel Industries,Healthcare,India,Delhi,1200.0,2023-08-21,Organic Search
+C1269,Aadhya Patel Solutions,Healthcare,India,Pune,80.0,2024-01-16,Organic Search
+C1270,Farhan Menon Group,Logistics,India,Mumbai,150.0,2024-06-22,Partner
+C1271,Myra Gupta Industries,Retail,India,Bengaluru,400.0,2024-12-11,Paid Ads
+C1272,Pooja Joshi Industries,Finance,Uk,London,80.0,2024-04-25,Paid Ads
+C1273,Ananya Menon Systems,Manufacturing,India,Delhi,150.0,2023-03-25,Partner
+C1274,Aadhya Khan Systems,Finance,Uae,Abu Dhabi,80.0,2024-10-06,Events
+C1275,Nikita Verma Technologies,Logistics,Uae,Abu Dhabi,35.0,2023-09-06,Paid Ads
+C1276,Myra Reddy Industries,Logistics,Singapore,Singapore,1200.0,2024-06-23,Unknown
+C1277,Kiara Gupta Industries,Logistics,Uae,Dubai,3000.0,2023-01-19,Paid Ads
+C1278,Meera Sharma Industries,Media,Uk,London,35.0,2024-02-14,Paid Ads
+C1279,Divya Verma Solutions,Finance,India,Pune,400.0,2024-06-19,Events
+C1280,Aman Patel Systems,Healthcare,Singapore,Singapore,80.0,2024-04-06,Organic Search
+C1281,Farhan Das Group,Finance,India,Mumbai,12.0,2024-05-17,Partner
+C1282,Nikita Menon Solutions,Healthcare,Usa,Boston,12.0,2024-12-03,Partner
+C1283,Kiara Nair Industries,Healthcare,Uae,Dubai,12.0,2023-04-03,Paid Ads
+C1284,Zoya Das Group,Retail,India,Pune,400.0,2024-12-27,Organic Search
+C1285,Isha Verma Solutions,Healthcare,Uk,Manchester,400.0,2023-05-19,Partner
+C1286,Krishna Khan Solutions,Media,Uk,Manchester,150.0,2023-10-27,Referral
+C1287,Farhan Nair Industries,Education,Uk,Manchester,35.0,2023-09-09,Organic Search
+C1288,Kiara Das Labs,Retail,India,Bengaluru,400.0,2024-09-09,Organic Search
+C1289,Karthik Patel Systems,Healthcare,India,Delhi,1200.0,2023-02-13,Events
+C1290,Riya Singh Systems,Manufacturing,Uae,Dubai,1200.0,2023-05-09,Referral
+C1291,Diya Rao Systems,Retail,Usa,Seattle,80.0,2024-11-30,Outbound
+C1292,Divya Sharma Technologies,Healthcare,Uae,Dubai,3000.0,2024-06-08,Paid Ads
+C1293,Tara Joshi Systems,Education,Usa,Boston,80.0,2024-06-01,Paid Ads
+C1294,Meera Singh Group,Education,India,Chennai,12.0,2023-07-24,Organic Search
+C1295,Aman Joshi Group,Logistics,India,Bengaluru,80.0,2024-05-05,Outbound
+C1296,Saanvi Khan Group,Healthcare,India,Hyderabad,12.0,2023-02-12,Partner
+C1297,Naveen Sharma Technologies,Manufacturing,India,Bengaluru,1200.0,2023-09-16,Partner
+C1298,Riya Menon Systems,Media,Singapore,Singapore,35.0,2023-04-14,Paid Ads
+C1299,Rahul Iyer Group,Healthcare,Uk,London,12.0,2023-08-23,Paid Ads
+C1300,Krishna Sharma Solutions,Retail,India,Hyderabad,150.0,2023-06-19,Paid Ads
+C1301,Sanjay Verma Industries,Logistics,Uk,London,80.0,2023-02-23,Organic Search
+C1302,Ishaan Singh Industries,Logistics,Singapore,Singapore,150.0,2024-05-13,Organic Search
+C1303,Farhan Khan Systems,Healthcare,India,Delhi,80.0,2023-08-15,Referral
+C1304,Karthik Sharma Group,Finance,Uk,London,400.0,2023-10-18,Paid Ads
+C1305,Ananya Reddy Solutions,Manufacturing,Uk,Manchester,400.0,2024-11-01,Organic Search
+C1306,Ananya Nair Systems,Media,India,Pune,80.0,2024-06-24,Partner
+C1307,Rahul Reddy Technologies,Media,India,Delhi,35.0,2023-09-03,Partner
+C1308,Naveen Gupta Labs,Unknown,Uk,Manchester,35.0,2024-07-25,Paid Ads
+C1309,Diya Gupta Labs,Education,Singapore,Singapore,35.0,2023-02-06,Partner
+C1310,Riya Das Technologies,Logistics,Uk,Manchester,3000.0,2024-08-25,Partner
+C1311,Kavya Rao Labs,Education,India,Chennai,80.0,2024-03-25,Partner
+C1312,Saanvi Bose Labs,Logistics,Singapore,Singapore,150.0,2023-12-05,Outbound
+C1313,Krishna Joshi Solutions,Manufacturing,Uk,Manchester,80.0,2023-06-30,Partner
+C1314,Isha Joshi Industries,Healthcare,Uk,London,150.0,2023-01-05,Paid Ads
+C1315,Arjun Das Solutions,Manufacturing,India,Pune,35.0,2024-07-13,Organic Search
+C1316,Deepak Reddy Group,Education,India,Pune,80.0,2023-08-28,Events
+C1317,Divya Patel Systems,Retail,India,Mumbai,80.0,2024-08-17,Outbound
+C1318,Vihaan Sharma Labs,Media,India,Mumbai,35.0,2023-09-28,Paid Ads
+C1319,Divya Bose Group,Finance,India,Delhi,35.0,2024-08-05,Organic Search
+C1320,Vihaan Nair Labs,Retail,India,Pune,1200.0,2024-05-16,Paid Ads
+C1321,Nikita Sharma Group,Logistics,Uk,London,1200.0,2024-08-03,Paid Ads
+C1322,Arjun Khan Systems,Finance,India,Hyderabad,400.0,2023-09-12,Events
+C1323,Pooja Verma Labs,Manufacturing,Singapore,Singapore,12.0,2023-10-30,Paid Ads
+C1324,Karthik Reddy Technologies,Media,India,Bengaluru,400.0,2023-02-10,Referral
+C1325,Ishaan Reddy Group,Healthcare,Uk,London,3000.0,2023-05-09,Paid Ads
+C1326,Naveen Sharma Labs,Manufacturing,Uk,Manchester,80.0,2023-03-26,Organic Search
+C1327,Nikita Menon Group,Media,India,Chennai,1200.0,2023-01-09,Organic Search
+C1328,Karthik Nair Labs,Media,Usa,Austin,12.0,2023-05-26,Paid Ads
+C1329,Kavya Das Group,Finance,India,Mumbai,400.0,2024-06-11,Referral
+C1330,Ananya Sharma Group,Finance,Usa,Austin,12.0,2023-05-14,Outbound
+C1331,Krishna Bose Industries,Finance,Uae,Abu Dhabi,150.0,2023-08-24,Events
+C1332,Diya Singh Labs,Finance,India,Chennai,35.0,2024-11-11,Events
+C1333,Aditya Nair Systems,Healthcare,Uk,London,12.0,2023-05-18,Referral
+C1334,Sai Menon Group,Manufacturing,India,Hyderabad,12.0,2025-01-02,Partner
+C1335,Karthik Rao Systems,Logistics,India,Chennai,1200.0,2023-08-16,Organic Search
+C1336,Sai Reddy Industries,Education,Uae,Abu Dhabi,150.0,2023-06-03,Partner
+C1337,Rohan Patel Systems,Finance,Usa,Seattle,400.0,2024-01-16,Organic Search
+C1338,Aadhya Singh Systems,Manufacturing,Usa,Austin,150.0,2023-04-20,Referral
+C1339,Nikita Iyer Group,Education,Uae,Abu Dhabi,80.0,2023-02-23,Partner
+C1340,Zoya Joshi Technologies,Healthcare,India,Mumbai,400.0,2024-03-06,Referral
+C1341,Isha Singh Group,Healthcare,India,Delhi,150.0,2023-03-06,Paid Ads
+C1342,Divya Joshi Systems,Healthcare,India,Pune,12.0,2023-05-29,Referral
+C1343,Isha Iyer Technologies,Manufacturing,Usa,Boston,80.0,2024-12-12,Referral
+C1344,Naveen Verma Technologies,Finance,India,Pune,400.0,2023-08-31,Paid Ads
+C1345,Rahul Gupta Group,Retail,Uae,Abu Dhabi,150.0,2024-02-03,Paid Ads
+C1346,Krishna Sharma Group,Retail,Uae,Abu Dhabi,1200.0,2024-10-09,Partner
+C1347,Deepak Khan Solutions,Manufacturing,India,Hyderabad,80.0,2023-11-03,Referral
+C1348,Aditya Menon Labs,Healthcare,Usa,Boston,12.0,2023-11-16,Referral
+C1349,Krishna Joshi Systems,Finance,India,Chennai,80.0,2024-02-20,Referral
+C1350,Deepak Gupta Labs,Education,India,Hyderabad,400.0,2023-07-28,Referral
+C1351,Priya Gupta Systems,Retail,India,Pune,150.0,2023-04-17,Partner
+C1352,Aditya Patel Industries,Manufacturing,India,Hyderabad,1200.0,2024-03-14,Organic Search
+C1353,Farhan Gupta Labs,Retail,Uae,Abu Dhabi,400.0,2025-01-05,Referral
+C1354,Vivaan Reddy Group,Retail,India,Delhi,35.0,2023-01-07,Referral
+C1355,Nikita Reddy Technologies,Finance,Uk,Manchester,400.0,2024-10-08,Paid Ads
+C1356,Divya Joshi Industries,Retail,India,Pune,35.0,2024-02-20,Paid Ads
+C1357,Saanvi Menon Labs,Media,India,Mumbai,400.0,2023-01-20,Referral
+C1358,Diya Das Systems,Logistics,India,Pune,3000.0,2023-07-20,Paid Ads
+C1359,Aman Rao Group,Finance,India,Chennai,400.0,2025-01-24,Outbound
+C1360,Deepak Gupta Group,Education,India,Pune,12.0,2024-08-04,Referral
+C1361,Meera Khan Systems,Retail,Usa,Boston,35.0,2024-10-27,Partner
+C1362,Aditya Patel Solutions,Education,India,Mumbai,12.0,2023-03-31,Outbound
+C1363,Pooja Gupta Group,Logistics,India,Pune,35.0,2024-08-10,Events
+C1364,Aarav Bose Labs,Manufacturing,India,Delhi,150.0,2023-12-01,Paid Ads
+C1365,Diya Joshi Industries,Finance,India,Hyderabad,35.0,2024-06-26,Events
+C1366,Kavya Verma Labs,Education,India,Chennai,35.0,2024-06-05,Partner
+C1367,Kiara Gupta Industries,Logistics,India,Delhi,400.0,2024-11-01,Paid Ads
+C1368,Priya Singh Solutions,Healthcare,India,Chennai,12.0,2024-09-09,Organic Search
+C1369,Meera Reddy Industries,Retail,Usa,Seattle,80.0,2024-11-29,Referral
+C1370,Arun Joshi Group,Logistics,India,Pune,12.0,2023-11-03,Paid Ads
+C1371,Nikita Singh Technologies,Finance,India,Pune,400.0,2023-10-08,Organic Search
+C1372,Isha Joshi Group,Retail,India,Hyderabad,150.0,2024-07-15,Outbound
+C1373,Naveen Patel Group,Logistics,India,Pune,400.0,2023-09-20,Referral
+C1374,Ananya Joshi Industries,Finance,Usa,Seattle,80.0,2023-12-11,Events
+C1375,Tara Bose Group,Healthcare,Singapore,Singapore,3000.0,2023-03-30,Paid Ads
+C1376,Vivaan Khan Systems,Media,India,Delhi,400.0,2023-06-29,Partner
+C1377,Zoya Bose Technologies,Logistics,Singapore,Singapore,35.0,2024-07-09,Organic Search
+C1378,Sneha Reddy Solutions,Logistics,India,Bengaluru,80.0,2023-11-27,Outbound
+C1379,Pooja Rao Labs,Media,Uk,Manchester,1200.0,2024-02-09,Referral
+C1380,Ishaan Reddy Labs,Media,Singapore,Singapore,80.0,2024-06-11,Partner
+C1381,Diya Nair Systems,Media,Usa,Seattle,150.0,2023-05-27,Paid Ads
+C1382,Sai Singh Systems,Logistics,India,Pune,400.0,2024-09-25,Outbound
+C1383,Myra Patel Solutions,Logistics,Usa,Boston,12.0,2024-08-04,Partner
+C1384,Arjun Joshi Technologies,Finance,India,Pune,1200.0,2024-08-26,Organic Search
+C1385,Vihaan Das Group,Logistics,India,Hyderabad,12.0,2024-11-14,Paid Ads
+C1386,Naveen Singh Technologies,Media,Usa,Seattle,12.0,2023-01-21,Referral
+C1387,Arun Nair Solutions,Finance,India,Chennai,35.0,2024-03-20,Outbound
+C1388,Sai Bose Group,Retail,India,Mumbai,400.0,2023-06-08,Paid Ads
+C1389,Meera Sharma Industries,Education,Uae,Dubai,400.0,2024-01-01,Outbound
+C1390,Rahul Reddy Labs,Retail,Uk,London,150.0,2024-03-01,Outbound
+C1391,Nikita Verma Industries,Logistics,India,Chennai,12.0,2023-11-11,Paid Ads
+C1392,Ananya Rao Industries,Media,Uae,Dubai,400.0,2023-04-08,Outbound
+C1393,Sneha Bose Technologies,Manufacturing,Uae,Dubai,35.0,2023-10-06,Outbound
+C1394,Sai Menon Group,Retail,Singapore,Singapore,12.0,2023-05-07,Partner
+C1395,Deepak Patel Labs,Education,Singapore,Singapore,12.0,2024-11-05,Paid Ads
+C1396,Sai Joshi Systems,Finance,India,Bengaluru,80.0,2023-12-18,Events
+C1397,Divya Reddy Group,Logistics,Uae,Dubai,80.0,2024-12-20,Paid Ads
+C1398,Zoya Rao Group,Healthcare,Usa,Boston,3000.0,2024-01-21,Events
+C1399,Aman Patel Technologies,Healthcare,Usa,Boston,80.0,2024-03-29,Paid Ads
+C1400,Arjun Bose Solutions,Education,India,Delhi,80.0,2024-10-18,Events
+C1401,Naveen Gupta Solutions,Finance,India,Bengaluru,80.0,2024-03-15,Events
+C1402,Rohan Reddy Industries,Manufacturing,India,Chennai,35.0,2024-12-03,Partner
+C1403,Sai Khan Labs,Media,India,Chennai,35.0,2024-08-15,Organic Search
+C1404,Rahul Nair Labs,Logistics,India,Mumbai,35.0,2024-03-08,Partner
+C1405,Deepak Gupta Labs,Retail,India,Chennai,35.0,2024-04-08,Outbound
+C1406,Vihaan Joshi Group,Education,Uk,London,35.0,2024-04-19,Organic Search
+C1407,Meera Gupta Labs,Logistics,India,Hyderabad,80.0,2024-10-23,Partner
+C1408,Aarav Reddy Labs,Finance,India,Delhi,12.0,2023-10-21,Events
+C1409,Saanvi Iyer Industries,Unknown,Usa,Boston,80.0,2023-05-22,Organic Search
+C1410,Isha Khan Technologies,Media,India,Hyderabad,12.0,2024-03-18,Organic Search
+C1411,Saanvi Verma Technologies,Education,India,Chennai,150.0,2025-01-07,Organic Search
+C1412,Farhan Verma Solutions,Manufacturing,India,Delhi,1200.0,2024-05-15,Referral
+C1413,Kiara Joshi Solutions,Finance,India,Bengaluru,80.0,2023-09-11,Organic Search
+C1414,Zoya Joshi Solutions,Education,Uk,Manchester,150.0,2023-12-30,Referral
+C1415,Sneha Rao Group,Retail,Singapore,Singapore,12.0,2024-02-12,Events
+C1416,Sneha Sharma Systems,Healthcare,Usa,Austin,400.0,2023-01-04,Partner
+C1417,Naveen Patel Technologies,Healthcare,India,Chennai,80.0,2023-04-07,Events
+C1418,Naveen Patel Technologies,Manufacturing,India,Delhi,80.0,2023-12-17,Partner
+C1419,Diya Nair Industries,Manufacturing,Uk,London,150.0,2024-11-29,Organic Search
+C1420,Arun Gupta Technologies,Healthcare,Usa,Seattle,3000.0,2023-03-07,Organic Search
